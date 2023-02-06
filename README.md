@@ -1,7 +1,7 @@
 # Hackathon2023
 QuickTag Website
 
-To open the QuickTag website, download the entire zipped folder locally.
+To open the QuickTag website locally, download the entire zipped folder locally.
 
 Unzip the folder, and execute the file named 'index.html'.
 
